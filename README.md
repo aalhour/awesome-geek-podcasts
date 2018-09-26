@@ -54,6 +54,7 @@ A curated list of podcasts we like to listen to.
 * [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things, Cloud Computing, AWS Ecosystem, OpenSource, DevOps, AppDev, SaaS and SDN.
 * [CMOS](http://code-maven.com/cmos) - The Code-Maven Open Source podcast helps you become familiar with a wide range of projects by interviewing users or developers of these projects.
 * [CodeNewbie Podcast](http://www.codenewbie.org/podcast) - Stories from people on their coding journey.
+* [CoRecursive Interviews](https://corecursive.com/) - In-Depth interviews with software development experts.  Focusing on functional programming and languages like scala / haskell / F# / erlang / idris / kotlin.
 * [CodePen Radio](https://blog.codepen.io/radio/) - Co-founders of CodePen talk about the ins and outs of running a web software business.
 * [Coding Blocks](http://www.codingblocks.net) - Software and Web Programming, security, best practices, Microsoft .NET and more.
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - A new podcast about the people who transform technology from the command line up. 
@@ -63,6 +64,7 @@ A curated list of podcasts we like to listen to.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
 * [CTRL+Click Cast](http://ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis.
 * [Curious Minds](http://www.cmpod.net/) - Curious Minds is a podcast about Science, Technology, and History. Each episode brings interesting stories from a wide range of subjects: from Physics and Astronomy to Medicine, Art and Science Fiction.
+* [Darknet Diaries](https://darknetdiaries.com) - Stories from hackers or those who have been attacked. How they got in and what happened.
 * [Data Skeptic](http://dataskeptic.com/) - The Data Skeptic Podcast features interviews and discussion of topics related to data science, statistics, machine learning, artificial intelligence and the like.
 * [Data Stories](http://datastori.es/) - Enrico Bertini and Moritz Stefaner discuss the latest developments in data analytics, visualization and related topics.
 * [Descriptive](http://descriptive.audio/) - This is an interview show with people from the JavaScript and web development world, hosted by Kahlil Lechelt and Henning Glatter-Götz.
@@ -100,7 +102,7 @@ A curated list of podcasts we like to listen to.
 * [Hello Internet](http://www.hellointernet.fm/) - Science youtubers CGP Grey and Brady Haran discuss everything from flag design to Star Wars.
 * [Houston We Have a Podcast](https://www.nasa.gov/johnson/HWHAP) - Oficial Johnson Space Center NASA's podcast. Hosted weekly, its topics are in general about space and the ISS.
 * [HTTP 203](https://developers.google.com/web/shows/http203/) -  In each show Jake and Paul pick a hot topic in the world of web development and discuss the various aspects of it, meanwhile dropping in lifehacks, lessons and some rather honest truths.
-* [Iron Sysadmin](https://www.undrground.org/ironsysadmin) - A Podcast by real world sysadmins, for real world sysadmins.
+* [Iron Sysadmin](https://www.ironsysadmin.com/) - A Podcast by real world sysadmins, for real world sysadmins.
 * [IRL: Because Online Life Is Real Life](https://irlpodcast.org/) - Host Veronica Belmont shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Mozilla.
 * [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
 * [Javascript to Elm](http://jstoelm.com/) - A podcast about using Elm coming from Javascript and other languages.
@@ -202,6 +204,7 @@ A curated list of podcasts we like to listen to.
 * [CapyCast](https://soundcloud.com/rdshipit/) - Podcast com o Time de Produto da Resultados Digitais sobre os seus aprendizados em Desenvolvimento e Design.
 * [Curto Circuito](http://curtocircuito.cc/) - Um bate-papo descontraído sobre tecnologia, nerdices e tudo o mais que a curiosidade pedir no melhor estilo "mesa de bar".
 * [DatabaseCast](http://imasters.com.br/perfil/databasecast/) - Primeiro podcast brasileiro sobre bancos de dados.
+* [DevDrops](https://anchor.fm/devdrops) - O seu podcast sobre desenvolvimento de software.
 * [DevNaEstrada](http://devnaestrada.com.br) - Podcast semanal sobre desenvolvimento web com uma pitada de humor.
 * [DioCast](http://www.diolinux.com.br/search/label/DioCast) - Podcast sobre Linux e Software Livre.
 * [FooCast](http://foocast.io/) - Podcast sucinto que fala sobre desenvolvimento em geral.
