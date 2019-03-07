@@ -1,7 +1,5 @@
-﻿---
-title: Awesome Geek Podcasts
-permalink: /
-layout: default
+# NOT BEING ACTIVELY MAINTAINED
+Version with travis-ci support and auto deployment: https://github.com/ayr-ton/awesome-geek-podcasts
 --
 # Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -103,12 +101,13 @@ A curated list of podcasts we like to listen to.
 * [GitMinutes](http://www.gitminutes.com/) - The show for proficient Git users.
 * [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
 * [Go Time](https://changelog.com/gotime) - Interesting topics around the Go programming language, building systems, the community, and everything in between.
+* [Hackaday Podcast](https://hackaday.com/category/podcasts/) - Hackaday's podcast, talking about the best articles published and hackaday contests.
 * [HardcoreHistory](https://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 * [Greater Than Code](https://www.greaterthancode.com/) - because #peoplematter.
 * [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
 * [HaskellCast](http://www.haskellcast.com/) — A podcast for Haskell developers working in industry.
 * [Hello Internet](http://www.hellointernet.fm/) - Science youtubers CGP Grey and Brady Haran discuss everything from flag design to Star Wars.
-* [Houston We Have a Podcast](https://www.nasa.gov/johnson/HWHAP/) - Oficial Johnson Space Center NASA's podcast. Hosted weekly, its topics are in general about space and the ISS.
+* [Houston We Have a Podcast](https://www.nasa.gov/johnson/HWHAP/) - Official Johnson Space Center NASA's podcast. Hosted weekly, its topics are in general about space and the ISS.
 * [HTTP 203](https://developers.google.com/web/shows/http203/) -  In each show Jake and Paul pick a hot topic in the world of web development and discuss the various aspects of it, meanwhile dropping in lifehacks, lessons and some rather honest truths.
 * [Iron Sysadmin](https://www.ironsysadmin.com/) - A Podcast by real world sysadmins, for real world sysadmins.
 * [IRL: Because Online Life Is Real Life](https://irlpodcast.org/) - Host Veronica Belmont shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Mozilla.
@@ -131,6 +130,7 @@ A curated list of podcasts we like to listen to.
 * [Note To Self](https://www.wnycstudios.org/shows/notetoself) - Host Manoush Zomorodi talks with everyone from big name techies to elementary school teachers about the effects of technology on our lives, in a quest for the smart choices that will help you think and live better.
 * [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) - The only show focused on Office 365 development where we talk to the experts from all over the globe coding on the Office 365 platform.
 * [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) - Latest open source projects and news!
+* [Our Ludicrous Future](https://ourludicrousfuture.com/) - Mostly talks abut space, technology and Elon Musk.
 * [Packet Pushers](https://packetpushers.net/) - About data networking by network architects. Deeply technical & unabashedly nerdy.
 * [Partially Derivative](http://partiallyderivative.com/) - A podcast about Data, Nerdiness, and Beer.
 * [PHP Round Table](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
@@ -143,8 +143,9 @@ A curated list of podcasts we like to listen to.
 * [React Podcast](https://reactpodcast.com/) - Podcast about React.js
 * [Reasonably Sound](http://reasonablysound.com/) - Context, explanation and a little celebration of the complexities and awesomeness of audio, and the various cultures which surround and have grown around it.
 * [Reply All](https://www.gimletmedia.com/reply-all) - Reply All is a show about the internet.
-* [Rocket Talk](https://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com’s award winning short fiction.
 * [Risky Business](https://risky.biz/netcasts/risky-business/) - Risky Business was established in February, 2007. It take a lighthearted look at information security news and features.
+* [Rocket Ranch](https://www.nasa.gov/kennedy/rocketranch) - Official podcast from NASA’s Kennedy Space Center.
+* [Rocket Talk](https://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com’s award winning short fiction.
 * [Ruby5](https://www.pluralsight.com/search?q=ruby) - The latest news in the Ruby and Rails community.
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
@@ -220,6 +221,7 @@ A curated list of podcasts we like to listen to.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
 * [Hipsters ponto Tech](https://hipsters.tech/) - Podcast da Caelum sobre startups, programação, UX, gadgets e as últimas tendências em tecnologia.
 * [Lambda3 Podcast](https://www.lambda3.com.br/category/podcast/) - Podcast da Lambda3
+* [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) - Entrevistas tratando de assuntos como liderança e empreendedorismo.
 * [Like a Boss](https://www.likeaboss.com.br) - O podcast Like a Boss é um podcast para empreendedores. Líderes e fundadores de startups e empresas de sucesso sentam com os dois hosts do programa.
 * [Lovelace Podcast](https://twitter.com/LovelacePodcast) - Internet, memes, games, atualidades e quando dá - tecnologia.
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - O Podcast tem uma proposta de explicar diversos temas, usando ciência, filosofia, história entre outros para embasar as respostas.
@@ -234,7 +236,9 @@ A curated list of podcasts we like to listen to.
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
 * [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
 * [Souforce.cloud](https://souforce.cloud/podcast/) - O primeiro podcast voltado ao mundo Salesforce no idioma Português, aqui batemos um papo de Desenvolvimento, Administração da Plataforma, Produtos Salesforce além de assuntos como Carreira entre outros.
+* [Tecnocast](https://tecnoblog.net/categoria/podcast/) - Podcast do Tecnoblog, sobre tecnologia.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) - Agilidade, arquitetura, linguagens e ativismo.
+* [Xadrez Verbal](https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/) - Política, história e atualidades.
 * [Zeno Overflow](https://soundcloud.com/zenorocha) - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.
 * [Zone Of Front-Enders](https://zofe.com.br/) - Podcast com enfoque no desenvolvimento front-end da web.
 
@@ -315,6 +319,7 @@ A curated list of podcasts we like to listen to.
 ## In Finnish
 
 * [Frontend Friday](http://frontendfriday.fi/) – A podcast and meeting about HTML, the Web, and related topics. From Oulu, Finland.
+* [Webbidevaus.fi](https://webbidevaus.fi/) - Weekly podcast about web-development. Hosted by Antti Mattila and Riku Rouvila.
 
 ## In Japanese
 
